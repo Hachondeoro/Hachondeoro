@@ -15,10 +15,18 @@
 
 
 
-# Stackoverflow activity
-<a href="https://stackoverflow.com/users/4903945">
-<img src="https://stackoverflow.com/users/flair/4903945.png" width="208" height="58" alt="profile for Frank Espinoza on StackOverFlow" title="profile for Frank Espinoza on StackOverFlow">
-</a>
+### <p align="center">Technical Skills</p>
+
+<p align="center">
+  <a href="https://devfrank.com/">
+    <img src="https://skillicons.dev/icons?i=js,typescript,react,next,nodejs,mysql" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://devfrank.com/">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,git,github" />
+  </a>
+</p>
 
 # Top Languages
 
