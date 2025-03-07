@@ -16,7 +16,6 @@
 
 
 ### <p align="center">Technical Skills</p>
-
 <p align="center">
   <a href="https://devfrank.com/">
     <img src="https://skillicons.dev/icons?i=js,typescript,react,next,nodejs,mysql" />
@@ -29,18 +28,7 @@
 </p>
 
 # Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hachondeoro&layout=compact"/>
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div class="flex" style="display: flex; align-items: flex-star;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hachondeoro&updated&layout=compact&custom_title=GitHub%20Language%20Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=hachondeoro&layout=compact&langs_count=6&custom_title=IDE-Based%20Coding%20Stats"/
+</div>
